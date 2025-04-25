@@ -16,7 +16,7 @@ public class Main {
         station.connectDevice(laptop);
 station.disconnectDevice(laptop);
 
-station.connectDevice(phone); // for practice
+
 
 
 
